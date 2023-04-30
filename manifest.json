@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "Phone Helper",
+  "name": "Reliable PBX Click to Call",
   "version": "1.1",
   "description": "Location, timezone, and click-to-dial",
-  "icons": {  "16": "icon16.png",
-    "48": "icon48.png",
-    "128": "icon128.png"
+  "icons": {  "16": "logo16.png",
+    "48": "logo48.png",
+    "128": "logo128.png"
   },
   "minimum_chrome_version": "88",
   "content_scripts": [
@@ -16,7 +16,7 @@
 	  }
   ],
   "web_accessible_resources": [{
-    "resources":["icon48.png"],
+    "resources":["logo48.png"],
     "matches": ["<all_urls>"]
   }]
 }
