@@ -1,14 +1,14 @@
-# phoneHelper
+# Reliable PBX Click to Call
 
 This Chrome Extension will show the location and timezone information for all phone numbers in a web page.
 
 ## Installation
 
-https://chrome.google.com/webstore/detail/phone-helper/cllcdbfbaembamcnhgkmihgmndhgimfb
+
 
 ## Usage
 
-A little phoneHelper icon will appear next to any identified phone numbers. Hovering over this image will show the location (North America for now), and timezone E = Eastern, C = Central, M = Mountain, P = Pacific, etc.
+A little Reliable PBX icon will appear next to any identified phone numbers. Hovering over this image will show the location (North America for now), and timezone EST = Eastern, CST = Central, MST = Mountain, PST = Pacific, etc.
 
 ## Contributing
 
@@ -20,7 +20,7 @@ A little phoneHelper icon will appear next to any identified phone numbers. Hove
 
 ## Credits
 
-Big thanks to https://github.com/jasonphanley/chrome-gv-call which I pretty much stole to avoid my previous jQuery dependency.
+Big thanks to https://github.com/byronigoe/phoneHelper.
 
 ## License
 
